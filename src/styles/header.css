@@ -1,0 +1,13 @@
+.header {
+    background-color: #111;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .site-title {
+    color: #e50914;
+    font-size: 3rem;
+    font-family: 'Arial', sans-serif;
+    letter-spacing: 2px;
+  }
+  

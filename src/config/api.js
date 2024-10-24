@@ -1,4 +1,4 @@
-export const getMovieById = async (id) => {
+export const getMovieById = async (id, apikey) => {
     // const apiKey = process.env.apikey;
     const url = `http://www.omdbapi.com/?i=${id}&apikey=a59b36b6`;
   
